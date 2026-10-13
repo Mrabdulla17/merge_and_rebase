@@ -1,0 +1,2 @@
+git rebase is a command that means moves your branch commit 
+onto a new base commit it helps keep your git "history clean and linear"
