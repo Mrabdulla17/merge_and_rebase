@@ -1,0 +1,2 @@
+Rebase moves the feature branch's commits onto the latest main history. 
+To integrate those changes into main, you can then run:
